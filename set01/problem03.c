@@ -16,7 +16,7 @@ int find_sum(int a, int b)
 
 void output(int a,int b,int c)
 {
-    printf("Sum of %d + %d is %d\n",a,b,c);
+    printf("Sum of %d+%d is %d\n",a,b,c);
 }
 
 int main(void)
