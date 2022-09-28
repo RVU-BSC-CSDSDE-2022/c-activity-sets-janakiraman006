@@ -21,6 +21,6 @@ x=input();
 y=input();
 z=input();
 largest =compare(x,y,z);
-printf("the largest of %d,%d,%d is %d\n",x,y,z largest);
+printf("the largest of %d,%d and %d is %d\n",x,y,z largest);
 return 0;
   }
