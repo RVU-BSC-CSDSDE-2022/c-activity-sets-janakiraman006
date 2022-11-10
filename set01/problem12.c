@@ -1,5 +1,5 @@
 #include <stdio.h>
-struct _complex
+struct_complex
 {
 	float real, imaginary;
 };

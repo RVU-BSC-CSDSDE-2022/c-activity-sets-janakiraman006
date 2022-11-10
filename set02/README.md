@@ -61,6 +61,8 @@ The weight of the camel with radius: 1.0, height: 1.0, length: 1.0 is 3.1415
 ---
 3.  Write a program to find the weight of the camel given height, length and stomach radius using four functions *(Structures)*
 
+
+
 > `weight = pi * stomach_radius^3 * sqrt(height * length)`
 
 ***Function Declarations***
