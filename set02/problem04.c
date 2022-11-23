@@ -1,24 +1,4 @@
-[0:19 pm, 09/11/2022] Shashank RVU: #include<stdio.h>
-#include<math.h>
-int main()
-{
-  int a,b,x1,x2,y1,y2;
-  float distance;
-  
-  printf("Enter the first coordinate of a and b\n");
-  scanf("%d%d",&x1,&y1);
-
-  printf("Enter the second coordinate of a and b\n");
-  scanf("%d%d",&x2,&y2);
-
-  a = (x2 - x1);
-  b = (y2 - y1);
-  distance=sqrt(a+b);
-
-  printf("The distance between point a and b is %2f\n ",distance);
-    return 0;
-}
-[2:26 pm, 13/11/2022] Shashank RVU: #include<stdio.h>
+#include<stdio.h>
 #include<math.h>
 void input_camel_details(float *radius,float *height,float *lenght)
 {
